@@ -1,0 +1,1 @@
+projeto CRUD padrão, como objetivo estabelecer uma conexão estavel com o banco de dados e fazer as principais funções Criar, Ler, Atualizar e Deletar.
