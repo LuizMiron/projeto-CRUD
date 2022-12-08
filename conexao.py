@@ -15,5 +15,5 @@ def CriarBanco():
     banco.commit()
 
 
-
-CriarBanco()
+if __name__ == "__main__":
+    CriarBanco()
